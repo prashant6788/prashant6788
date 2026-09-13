@@ -28,6 +28,7 @@ My public repositories document practical frameworks for three connected layers 
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🔎 SEO Growth Systems
@@ -36,10 +37,10 @@ My public repositories document practical frameworks for three connected layers 
 
 Frameworks for traditional SEO, technical SEO, GEO and visibility across AI-powered search and discovery platforms.
 
-**Repository:**  
-[SEO Growth Systems →](https://github.com/prashant6788/seo-growth-systems)
+**[Explore Repository →](https://github.com/prashant6788/seo-growth-systems)**
 
 **Start with:**
+
 - [SEO Growth Framework](https://github.com/prashant6788/seo-growth-systems/blob/main/seo-growth-framework.md)
 - [Technical SEO Audit Framework](https://github.com/prashant6788/seo-growth-systems/blob/main/technical-seo-audit-framework.md)
 - [AI Search Visibility Checklist](https://github.com/prashant6788/seo-growth-systems/blob/main/ai-search-visibility-checklist.md)
@@ -53,12 +54,12 @@ Frameworks for traditional SEO, technical SEO, GEO and visibility across AI-powe
 
 **Intelligence & workflow automation**
 
-Practical frameworks for AI strategy, workflow design, AI-assisted CRM operations, human handoff, QA and measurement.
+Frameworks for AI strategy, workflow design, AI-assisted operations, human handoff, QA and measurement.
 
-**Repository:**  
-[AI Automation Playbooks →](https://github.com/prashant6788/ai-automation-playbooks)
+**[Explore Repository →](https://github.com/prashant6788/ai-automation-playbooks)**
 
 **Start with:**
+
 - [AI Automation Readiness Checklist](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-automation-readiness-checklist.md)
 - [AI Automation Strategy Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-automation-strategy-framework.md)
 - [AI Workflow Design Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-workflow-design-framework.md)
@@ -72,18 +73,19 @@ Practical frameworks for AI strategy, workflow design, AI-assisted CRM operation
 
 **Lead & revenue operations**
 
-Frameworks for CRM architecture, lifecycle management, data models, pipeline design, routing, follow-up, attribution and reporting.
+Frameworks for CRM architecture, lifecycle management, pipeline design, routing, follow-up, attribution and reporting.
 
-**Repository:**  
-[CRM Automation Frameworks →](https://github.com/prashant6788/crm-automation-frameworks)
+**[Explore Repository →](https://github.com/prashant6788/crm-automation-frameworks)**
 
 **Start with:**
+
 - [CRM Strategy Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/crm-strategy-framework.md)
 - [Lead Lifecycle Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/lead-lifecycle-framework.md)
 - [CRM Lead Routing Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/crm-lead-routing-framework.md)
 - [CRM Pipeline Design Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/crm-pipeline-design-framework.md)
 
 </td>
+
 </tr>
 </table>
 
@@ -102,37 +104,16 @@ flowchart LR
     G -. "Insights" .-> A
 ```
 
-The repositories are intentionally connected but have different responsibilities:
+Each layer has a different responsibility:
 
-```text
-SEO / GEO
-↓
-Create visibility and demand
+**SEO / GEO** → Create visibility and demand  
+**CRM** → Capture, structure and manage opportunities  
+**Automation** → Execute repeatable workflows  
+**AI** → Assist interpretation, qualification and decision support  
+**Sales Operations** → Move opportunities toward commercial outcomes  
+**Revenue Measurement** → Connect activity to business results
 
-CRM
-↓
-Capture, structure and manage customer opportunities
-
-Automation
-↓
-Execute repeatable operational workflows
-
-AI
-↓
-Assist interpretation, qualification and decision support
-
-Sales Operations
-↓
-Move opportunities toward commercial outcomes
-
-Revenue Measurement
-↓
-Connect activity to business results
-```
-
-The goal is not to add technology for its own sake.
-
-**The goal is to build connected systems that make growth more structured, measurable and operationally reliable.**
+> **The goal is not technology for its own sake. The goal is to build connected systems that make growth more structured, measurable and operationally reliable.**
 
 ---
 
@@ -142,7 +123,7 @@ The goal is not to add technology for its own sake.
 
 Practical AI integrations, workflow automation, AI-assisted business systems and human-in-the-loop processes.
 
-`AI Workflows` · `AI Agents` · `Lead Qualification` · `Human Handoff` · `Workflow Automation` · `QA`
+`AI Workflows` · `AI Agents` · `Lead Qualification` · `Human Handoff` · `Workflow Automation`
 
 ### 🔄 CRM & Revenue Operations
 
@@ -152,9 +133,9 @@ Connected systems for lead capture, qualification, routing, pipeline management,
 
 ### 🔎 SEO + GEO / AI Search Visibility
 
-Improving visibility across traditional search engines and emerging AI-powered discovery experiences.
+Visibility across traditional search engines and emerging AI-powered discovery experiences.
 
-`Technical SEO` · `Content Systems` · `Local SEO` · `GEO` · `AI Search Visibility` · `Measurement`
+`Technical SEO` · `Content Systems` · `Local SEO` · `GEO` · `AI Search Visibility`
 
 ### 🔗 System Integration
 
@@ -164,7 +145,7 @@ Connecting marketing, CRM, communications, data and operational systems.
 
 ### 📈 Performance Marketing
 
-Acquisition systems designed around measurable commercial outcomes rather than isolated campaign metrics.
+Acquisition systems designed around measurable commercial outcomes.
 
 `Google Ads` · `Meta Ads` · `Microsoft Ads` · `Conversion Tracking` · `Attribution`
 
@@ -172,26 +153,22 @@ Acquisition systems designed around measurable commercial outcomes rather than i
 
 # 🏗️ My Systems Approach
 
-I generally think about business technology as a connected operating system:
+I think about business technology as a connected operating system:
 
 ```text
-TRAFFIC & DISCOVERY
-        ↓
-Website / Landing Page
+Traffic & Discovery
         ↓
 Lead Capture
         ↓
 CRM
         ↓
-Validation + Qualification
-        ↓
-Lead Routing
+Qualification + Routing
         ↓
 Workflow Automation
         ↓
 AI Assistance
         ↓
-Human Sales Team
+Human Sales
         ↓
 Pipeline
         ↓
@@ -224,18 +201,17 @@ Through **[Touchstone Infotech](https://www.touchstoneinfotech.com/)**, I work w
 
 # 🔨 What I'm Building
 
-My current focus is on creating and implementing practical systems around:
+My current focus includes:
 
 - AI integrations for business workflows
 - CRM and lead-management automation
 - AI-assisted qualification and customer communication
 - SEO, GEO and AI-search visibility
 - Marketing-to-sales system integration
-- Revenue operations
+- Revenue operations and attribution
 - Workflow reliability and QA
-- Measurement and attribution
 
-I also publish sanitized frameworks, templates, checklists and implementation examples when they can be useful to other practitioners.
+I also publish **sanitized frameworks, templates, checklists and implementation examples** when they can provide practical value to other practitioners.
 
 ---
 
@@ -252,83 +228,15 @@ I also publish sanitized frameworks, templates, checklists and implementation ex
 
 # 🏢 Industry Focus
 
-My work has included systems and growth programs across:
-
 `SaaS` · `Real Estate` · `Education` · `Ecommerce`
 
-with additional work across local businesses, professional services and other lead-driven businesses.
-
----
-
-# 📚 Public Knowledge Repositories
-
-### 🔎 [SEO Growth Systems](https://github.com/prashant6788/seo-growth-systems)
-
-Practical frameworks for **SEO, technical SEO, GEO and AI Search Visibility**.
-
-```text
-SEO Strategy
-↓
-Technical SEO
-↓
-Content & Authority
-↓
-GEO / AI Visibility
-↓
-Measurement
-```
-
----
-
-### 🤖 [AI Automation Playbooks](https://github.com/prashant6788/ai-automation-playbooks)
-
-Practical frameworks for **AI strategy, workflow automation, AI agents, human handoff and measurement**.
-
-```text
-Opportunity
-↓
-Workflow Design
-↓
-Rules + AI
-↓
-Human Handoff
-↓
-QA
-↓
-Measurement
-```
-
----
-
-### 🔄 [CRM Automation Frameworks](https://github.com/prashant6788/crm-automation-frameworks)
-
-Practical frameworks for **CRM architecture, lead lifecycle, routing, pipeline management, attribution and reporting**.
-
-```text
-Lead Capture
-↓
-CRM
-↓
-Ownership
-↓
-Qualification
-↓
-Pipeline
-↓
-Follow-Up
-↓
-Revenue
-↓
-Reporting
-```
+Additional experience includes local businesses, professional services and other lead-driven businesses.
 
 ---
 
 # 🧪 Publishing Principles
 
-The public resources I maintain are intended to be practical working references.
-
-I try to follow a few principles:
+The resources I publish are intended to be practical working references.
 
 - **Process before platform**
 - **Useful frameworks over generic theory**
@@ -336,28 +244,10 @@ I try to follow a few principles:
 - **Failure paths as well as happy paths**
 - **Measurement tied to business outcomes**
 - **No fabricated case studies or performance claims**
-- **Sanitized examples where real implementation context is useful**
+- **Sanitized examples where implementation context is useful**
 - **Clear distinction between tested practices and experimental ideas**
 
-These repositories are updated when useful implementation patterns, corrections or improvements are identified — not simply to increase repository volume.
-
----
-
-# 🎯 Current Focus
-
-```text
-AI AUTOMATION
-      +
-CRM & REVENUE OPERATIONS
-      +
-SEO / GEO / AI SEARCH
-      +
-SYSTEM INTEGRATION
-      ↓
-CONNECTED REVENUE SYSTEMS
-```
-
-I am particularly interested in how AI can be integrated into existing business systems without replacing the deterministic workflows, reliable data and human judgment those systems still require.
+Repositories are updated when useful implementation patterns, corrections or improvements are identified — not simply to increase repository volume.
 
 ---
 
