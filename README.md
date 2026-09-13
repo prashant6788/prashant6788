@@ -66,9 +66,26 @@ The goal is simple: **use technology to create better-connected, more measurable
 
 ## Featured Work
 
-I'm building this GitHub profile as a public library of practical frameworks, implementation resources and experiments covering **AI, automation, CRM, SEO/GEO and revenue systems**.
+I publish practical frameworks and implementation resources around **AI, automation, CRM, SEO/GEO and connected revenue systems**.
 
-Featured repositories and open resources will be added here as they are published.
+### 🔎 SEO, GEO & AI Search Visibility
+
+**[SEO Growth Systems](https://github.com/prashant6788/seo-growth-systems)**  
+Practical frameworks for traditional SEO, GEO and visibility across AI-powered discovery platforms.
+
+- [AI Search Visibility Checklist](https://github.com/prashant6788/seo-growth-systems/blob/main/ai-search-visibility-checklist.md)
+
+### 🤖 AI & Business Automation
+
+**[AI Automation Playbooks](https://github.com/prashant6788/ai-automation-playbooks)**  
+Practical AI integration and business automation frameworks for CRM, lead management, sales workflows and revenue operations.
+
+- [AI Automation Readiness Checklist](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-automation-readiness-checklist.md)
+- [AI Lead Qualification Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-lead-qualification-framework.md)
+
+---
+
+More implementation frameworks, checklists and practical experiments are being added as they are developed and validated.
 
 ---
 
