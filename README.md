@@ -1,27 +1,214 @@
-# Prashant Rajput
+<div align="center">
 
-### Founder | AI, Automation, SEO & System Integration
+# 👋 Prashant Rajput
 
-**Building practical AI, automation, SEO and revenue systems for businesses.**
+### Founder | AI Automation · CRM Systems · SEO/GEO · System Integration
 
-Founder of [Touchstone Infotech](https://www.touchstoneinfotech.com/), working at the intersection of **technology, marketing and revenue operations**. I build and lead the implementation of connected systems that bring together acquisition, AI, search visibility, CRM, automation and sales workflows.
+**Building practical AI, automation, search and revenue systems for businesses.**
+
+Founder of **[Touchstone Infotech](https://www.touchstoneinfotech.com/)**, working at the intersection of **technology, marketing and revenue operations**.
+
+I design and lead the implementation of connected systems that bring together:
+
+**Search Visibility → Lead Generation → CRM → Automation → AI → Sales Operations → Revenue Measurement**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant6788/)
 [![Touchstone Infotech](https://img.shields.io/badge/Touchstone%20Infotech-Website-222222)](https://www.touchstoneinfotech.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-prashant6788-181717?logo=github&logoColor=white)](https://github.com/prashant6788)
+
+</div>
 
 ---
 
-## What I Work On
+# 🚀 Featured Systems
 
-- **AI & Automation** — practical AI integrations, workflow automation and AI-assisted business systems
-- **SEO + GEO / AI Search Visibility** — visibility across Google and AI-powered discovery platforms
-- **CRM & Marketing Automation** — connected lead management, nurturing, qualification and sales workflows
-- **Performance Marketing** — acquisition systems designed around measurable business outcomes
-- **System Integration** — connecting marketing, CRM, communications, data and operational tools
+My public repositories document practical frameworks for three connected layers of modern growth and revenue operations.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔎 SEO Growth Systems
+
+**Search visibility & discovery**
+
+Frameworks for traditional SEO, technical SEO, GEO and visibility across AI-powered search and discovery platforms.
+
+**Repository:**  
+[SEO Growth Systems →](https://github.com/prashant6788/seo-growth-systems)
+
+**Start with:**
+- [SEO Growth Framework](https://github.com/prashant6788/seo-growth-systems/blob/main/seo-growth-framework.md)
+- [Technical SEO Audit Framework](https://github.com/prashant6788/seo-growth-systems/blob/main/technical-seo-audit-framework.md)
+- [AI Search Visibility Checklist](https://github.com/prashant6788/seo-growth-systems/blob/main/ai-search-visibility-checklist.md)
+- [GEO / LLM Visibility Framework](https://github.com/prashant6788/seo-growth-systems/blob/main/geo-llm-visibility-framework.md)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Automation Playbooks
+
+**Intelligence & workflow automation**
+
+Practical frameworks for AI strategy, workflow design, AI-assisted CRM operations, human handoff, QA and measurement.
+
+**Repository:**  
+[AI Automation Playbooks →](https://github.com/prashant6788/ai-automation-playbooks)
+
+**Start with:**
+- [AI Automation Readiness Checklist](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-automation-readiness-checklist.md)
+- [AI Automation Strategy Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-automation-strategy-framework.md)
+- [AI Workflow Design Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-workflow-design-framework.md)
+- [AI Agent Human Handoff Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-agent-human-handoff-framework.md)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔄 CRM Automation Frameworks
+
+**Lead & revenue operations**
+
+Frameworks for CRM architecture, lifecycle management, data models, pipeline design, routing, follow-up, attribution and reporting.
+
+**Repository:**  
+[CRM Automation Frameworks →](https://github.com/prashant6788/crm-automation-frameworks)
+
+**Start with:**
+- [CRM Strategy Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/crm-strategy-framework.md)
+- [Lead Lifecycle Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/lead-lifecycle-framework.md)
+- [CRM Lead Routing Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/crm-lead-routing-framework.md)
+- [CRM Pipeline Design Framework](https://github.com/prashant6788/crm-automation-frameworks/blob/main/crm-pipeline-design-framework.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Founder Experience
+# 🧩 How These Systems Connect
+
+```mermaid
+flowchart LR
+    A["SEO / GEO"] --> B["Lead Generation"]
+    B --> C["CRM"]
+    C --> D["Workflow Automation"]
+    D --> E["AI Assistance"]
+    E --> F["Sales Operations"]
+    F --> G["Revenue Measurement"]
+    G -. "Insights" .-> A
+```
+
+The repositories are intentionally connected but have different responsibilities:
+
+```text
+SEO / GEO
+↓
+Create visibility and demand
+
+CRM
+↓
+Capture, structure and manage customer opportunities
+
+Automation
+↓
+Execute repeatable operational workflows
+
+AI
+↓
+Assist interpretation, qualification and decision support
+
+Sales Operations
+↓
+Move opportunities toward commercial outcomes
+
+Revenue Measurement
+↓
+Connect activity to business results
+```
+
+The goal is not to add technology for its own sake.
+
+**The goal is to build connected systems that make growth more structured, measurable and operationally reliable.**
+
+---
+
+# 🧠 What I Work On
+
+### 🤖 AI & Automation
+
+Practical AI integrations, workflow automation, AI-assisted business systems and human-in-the-loop processes.
+
+`AI Workflows` · `AI Agents` · `Lead Qualification` · `Human Handoff` · `Workflow Automation` · `QA`
+
+### 🔄 CRM & Revenue Operations
+
+Connected systems for lead capture, qualification, routing, pipeline management, follow-up and revenue measurement.
+
+`CRM Architecture` · `Lead Lifecycle` · `Pipeline` · `Routing` · `Follow-Up` · `Attribution`
+
+### 🔎 SEO + GEO / AI Search Visibility
+
+Improving visibility across traditional search engines and emerging AI-powered discovery experiences.
+
+`Technical SEO` · `Content Systems` · `Local SEO` · `GEO` · `AI Search Visibility` · `Measurement`
+
+### 🔗 System Integration
+
+Connecting marketing, CRM, communications, data and operational systems.
+
+`APIs` · `Webhooks` · `CRM` · `WhatsApp` · `Marketing Platforms` · `Data Flows`
+
+### 📈 Performance Marketing
+
+Acquisition systems designed around measurable commercial outcomes rather than isolated campaign metrics.
+
+`Google Ads` · `Meta Ads` · `Microsoft Ads` · `Conversion Tracking` · `Attribution`
+
+---
+
+# 🏗️ My Systems Approach
+
+I generally think about business technology as a connected operating system:
+
+```text
+TRAFFIC & DISCOVERY
+        ↓
+Website / Landing Page
+        ↓
+Lead Capture
+        ↓
+CRM
+        ↓
+Validation + Qualification
+        ↓
+Lead Routing
+        ↓
+Workflow Automation
+        ↓
+AI Assistance
+        ↓
+Human Sales Team
+        ↓
+Pipeline
+        ↓
+Won / Lost
+        ↓
+Revenue Attribution
+        ↓
+Reporting & Improvement
+```
+
+A good system should answer:
+
+> **Where did the opportunity come from? Who owns it? What should happen next? What has already happened? What was the business outcome?**
+
+---
+
+# 👨‍💼 Founder Experience
 
 **13+ years** building and scaling digital growth and technology systems.
 
@@ -31,67 +218,165 @@ Founder of [Touchstone Infotech](https://www.touchstoneinfotech.com/), working a
 - Leading a **26-person growth & technology team**
 - Experience across **SaaS, Real Estate, Education & Ecommerce**
 
+Through **[Touchstone Infotech](https://www.touchstoneinfotech.com/)**, I work with businesses on connected systems spanning marketing, search, CRM, automation, AI and revenue operations.
+
 ---
 
-## What I'm Building
+# 🔨 What I'm Building
 
-I'm currently focused on creating practical systems and public resources around:
+My current focus is on creating and implementing practical systems around:
 
 - AI integrations for business workflows
 - CRM and lead-management automation
+- AI-assisted qualification and customer communication
 - SEO, GEO and AI-search visibility
 - Marketing-to-sales system integration
-- Revenue operations and automation frameworks
+- Revenue operations
+- Workflow reliability and QA
+- Measurement and attribution
 
-The goal is simple: **use technology to create better-connected, more measurable revenue systems — not automation for automation's sake.**
-
----
-
-## Cloud, AI & Automation Credentials
-
-- AWS Certified Solutions Architect – Professional
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
-- AZ-305: Designing Microsoft Azure Infrastructure Solutions
-- Microsoft 365 Certified: Security Administrator Associate
-- WhatsApp Marketing
+I also publish sanitized frameworks, templates, checklists and implementation examples when they can be useful to other practitioners.
 
 ---
 
-## Industry Focus
+# ☁️ Cloud, AI & Automation Credentials
+
+- **AWS Certified Solutions Architect – Professional**
+- **AWS Certified AI Practitioner**
+- **AWS Certified Cloud Practitioner**
+- **AZ-305: Designing Microsoft Azure Infrastructure Solutions**
+- **Microsoft 365 Certified: Security Administrator Associate**
+- **WhatsApp Marketing**
+
+---
+
+# 🏢 Industry Focus
+
+My work has included systems and growth programs across:
 
 `SaaS` · `Real Estate` · `Education` · `Ecommerce`
 
----
-
-## Featured Work
-
-I publish practical frameworks and implementation resources around **AI, automation, CRM, SEO/GEO and connected revenue systems**.
-
-### 🔎 SEO, GEO & AI Search Visibility
-
-**[SEO Growth Systems](https://github.com/prashant6788/seo-growth-systems)**  
-Practical frameworks for traditional SEO, GEO and visibility across AI-powered discovery platforms.
-
-- [AI Search Visibility Checklist](https://github.com/prashant6788/seo-growth-systems/blob/main/ai-search-visibility-checklist.md)
-
-### 🤖 AI & Business Automation
-
-**[AI Automation Playbooks](https://github.com/prashant6788/ai-automation-playbooks)**  
-Practical AI integration and business automation frameworks for CRM, lead management, sales workflows and revenue operations.
-
-- [AI Automation Readiness Checklist](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-automation-readiness-checklist.md)
-- [AI Lead Qualification Framework](https://github.com/prashant6788/ai-automation-playbooks/blob/main/ai-lead-qualification-framework.md)
+with additional work across local businesses, professional services and other lead-driven businesses.
 
 ---
 
-More implementation frameworks, checklists and practical experiments are being added as they are developed and validated.
+# 📚 Public Knowledge Repositories
+
+### 🔎 [SEO Growth Systems](https://github.com/prashant6788/seo-growth-systems)
+
+Practical frameworks for **SEO, technical SEO, GEO and AI Search Visibility**.
+
+```text
+SEO Strategy
+↓
+Technical SEO
+↓
+Content & Authority
+↓
+GEO / AI Visibility
+↓
+Measurement
+```
 
 ---
 
-## Connect
+### 🤖 [AI Automation Playbooks](https://github.com/prashant6788/ai-automation-playbooks)
 
-**LinkedIn:** [linkedin.com/in/prashant6788](https://www.linkedin.com/in/prashant6788/)  
-**Company:** [Touchstone Infotech](https://www.touchstoneinfotech.com/)
+Practical frameworks for **AI strategy, workflow automation, AI agents, human handoff and measurement**.
 
-> I'm interested in conversations with businesses, founders and investors exploring practical applications of AI, automation, search visibility and connected revenue systems.
+```text
+Opportunity
+↓
+Workflow Design
+↓
+Rules + AI
+↓
+Human Handoff
+↓
+QA
+↓
+Measurement
+```
+
+---
+
+### 🔄 [CRM Automation Frameworks](https://github.com/prashant6788/crm-automation-frameworks)
+
+Practical frameworks for **CRM architecture, lead lifecycle, routing, pipeline management, attribution and reporting**.
+
+```text
+Lead Capture
+↓
+CRM
+↓
+Ownership
+↓
+Qualification
+↓
+Pipeline
+↓
+Follow-Up
+↓
+Revenue
+↓
+Reporting
+```
+
+---
+
+# 🧪 Publishing Principles
+
+The public resources I maintain are intended to be practical working references.
+
+I try to follow a few principles:
+
+- **Process before platform**
+- **Useful frameworks over generic theory**
+- **Human judgment where automation is inappropriate**
+- **Failure paths as well as happy paths**
+- **Measurement tied to business outcomes**
+- **No fabricated case studies or performance claims**
+- **Sanitized examples where real implementation context is useful**
+- **Clear distinction between tested practices and experimental ideas**
+
+These repositories are updated when useful implementation patterns, corrections or improvements are identified — not simply to increase repository volume.
+
+---
+
+# 🎯 Current Focus
+
+```text
+AI AUTOMATION
+      +
+CRM & REVENUE OPERATIONS
+      +
+SEO / GEO / AI SEARCH
+      +
+SYSTEM INTEGRATION
+      ↓
+CONNECTED REVENUE SYSTEMS
+```
+
+I am particularly interested in how AI can be integrated into existing business systems without replacing the deterministic workflows, reliable data and human judgment those systems still require.
+
+---
+
+# 🤝 Connect
+
+I'm interested in conversations with **businesses, founders, technology partners and investors** exploring practical applications of AI, automation, CRM, search visibility and connected revenue systems.
+
+💼 **LinkedIn:** [linkedin.com/in/prashant6788](https://www.linkedin.com/in/prashant6788/)  
+🌐 **Touchstone Infotech:** [touchstoneinfotech.com](https://www.touchstoneinfotech.com/)  
+👤 **GitHub:** [github.com/prashant6788](https://github.com/prashant6788)
+
+---
+
+<div align="center">
+
+### Building practical systems at the intersection of technology, marketing and revenue operations.
+
+**AI · Automation · CRM · SEO/GEO · System Integration**
+
+[LinkedIn](https://www.linkedin.com/in/prashant6788/) · [Touchstone Infotech](https://www.touchstoneinfotech.com/) · [GitHub](https://github.com/prashant6788)
+
+</div>
